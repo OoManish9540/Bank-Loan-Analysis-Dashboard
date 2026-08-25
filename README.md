@@ -106,12 +106,7 @@ This project addresses these requirements through **SQL-driven KPIs** and **inte
 
 ### Tableau Public Dashboard Link
 View Live Dashboard:  
-
 https://public.tableau.com/app/profile/manish.kumar2480/viz/BankLoanReport_17876378517740/DETAIL#1
-
-
-https://public.tableau.com/app/profile/dev.dixit2546/viz/BankLoanReport_17747909445300/DETAIL?publish=yes
-
 ---
 
 ## SQL Queries Used
